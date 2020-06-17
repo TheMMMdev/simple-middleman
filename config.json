@@ -1,0 +1,4 @@
+{
+	"postgres": "username://postgres:password@0.0.0.0/dummydatabase"
+	"table": "dummytable"
+}
